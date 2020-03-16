@@ -7,5 +7,4 @@
 	ModelAttribute，SessionAttribute，get Post 限制 Restful风格
 	响应：
 	String void ModelAndView 转发重定向，json-ajax
-	文件上传，异常处理，拦截器
-	
+	文件上传，异常处理，拦截器，学习的视频资料来源于SpringMVC教程IDEA-3天-2018黑马SSM系列，就，，就说这么多_(:з)∠)_
